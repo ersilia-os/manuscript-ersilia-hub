@@ -1,23 +1,29 @@
 ---
-title: "Ersilia, a Hub of Open Source Drug Discovery Models for Global Health"
+title: "Ersilia: a Hub of Open Source Drug Discovery Models for Global Health"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
+  - github: GemmaTuron
+    name: Gemma Turon
+    initials: GT
+    orcid: 0000-0001-6798-0275
+    twitter: TuronGemma
+    email: gemma@ersilia.io
+    affiliations:
+      - Ersilia Open Source Initiative, Cambridge, UK
+  - name: Edoardo Gaude
+    initials: EG
+    email: edoardo@ersilia.io
+    affiliations:
+      - Ersilia Open Source Initiative, Cambridge, UK
   - github: miquelduranfrigola
     name: Miquel Duran-Frigola
     initials: MDF
     orcid: 0000-0002-9906-6936
     twitter: mduranfrigola
     email: miquel@ersilia.io
-    affiliations:
-      - Ersilia Open Source Initiative, Cambridge, UK
-  - github: GemmaTuron
-    name: Gemma Turon
-    initials: GT
-    orcid: 0000-0001-6798-0275
-    email: gemma@ersilia.io
     affiliations:
       - Ersilia Open Source Initiative, Cambridge, UK
