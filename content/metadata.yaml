@@ -1,5 +1,5 @@
 ---
-title: "Ersilia Model Hub"
+title: "Ersilia, a Hub of Open Source Drug Discovery Models for Global Health"
 keywords:
   - markdown
   - publishing
@@ -9,18 +9,15 @@ authors:
   - github: miquelduranfrigola
     name: Miquel Duran-Frigola
     initials: MDF
-    orcid: XXXX-XXXX-XXXX-XXXX
+    orcid: 0000-0002-9906-6936
     twitter: mduranfrigola
     email: miquel@ersilia.io
     affiliations:
       - Ersilia Open Source Initiative, Cambridge, UK
-    funders:
-      - None
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+  - github: GemmaTuron
+    name: Gemma Turon
+    initials: GT
+    orcid: 0000-0001-6798-0275
+    email: gemma@ersilia.io
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Ersilia Open Source Initiative, Cambridge, UK
