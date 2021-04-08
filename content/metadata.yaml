@@ -1,21 +1,21 @@
 ---
-title: "Manuscript Title"
+title: "Ersilia Model Hub"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: miquelduranfrigola
+    name: Miquel Duran-Frigola
+    initials: MDF
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: mduranfrigola
+    email: miquel@ersilia.io
     affiliations:
       - Department of Something, University of Whatever
     funders:
-      - Grant XXXXXXXX
+      - None
   - github: janeroe
     name: Jane Roe
     initials: JR
