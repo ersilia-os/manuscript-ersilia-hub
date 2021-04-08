@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/ersilia-os/manuscript-ersilia-hub/tree/gh-pages) branch hosts the contents of this directory at <https://ersilia-os.github.io/manuscript-ersilia-hub/>.
-The permalink for this webpage version is <https://ersilia-os.github.io/manuscript-ersilia-hub/v/391fc7f443dd6798224cd79b6d516605d06b8853/>.
+The permalink for this webpage version is <https://ersilia-os.github.io/manuscript-ersilia-hub/v/60797b23b4cb0a824ed9f88cfaaa461024ac8851/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://ersilia-os.github.io/manuscript-ersilia-hub/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`391fc7f443dd6798224cd79b6d516605d06b8853`](https://github.com/ersilia-os/manuscript-ersilia-hub/commit/391fc7f443dd6798224cd79b6d516605d06b8853).
+[`60797b23b4cb0a824ed9f88cfaaa461024ac8851`](https://github.com/ersilia-os/manuscript-ersilia-hub/commit/60797b23b4cb0a824ed9f88cfaaa461024ac8851).
