@@ -28,7 +28,7 @@ header-includes: |-
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="Miquel Duran-Frigola" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Ersilia Open Source Initiative, Cambridge, UK" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@mduranfrigola" />
   <meta name="citation_author" content="Jane Roe" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ersilia-os.github.io/manuscript-ersilia-hub/" />
   <meta name="citation_pdf_url" content="https://ersilia-os.github.io/manuscript-ersilia-hub/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ersilia-os.github.io/manuscript-ersilia-hub/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ersilia-os.github.io/manuscript-ersilia-hub/v/c6a22893422c03cc49c1e48970751baf0e703f86/" />
-  <meta name="manubot_html_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/c6a22893422c03cc49c1e48970751baf0e703f86/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/c6a22893422c03cc49c1e48970751baf0e703f86/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ersilia-os.github.io/manuscript-ersilia-hub/v/391fc7f443dd6798224cd79b6d516605d06b8853/" />
+  <meta name="manubot_html_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/391fc7f443dd6798224cd79b6d516605d06b8853/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/391fc7f443dd6798224cd79b6d516605d06b8853/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ersilia-os.github.io/manuscript-ersilia-hub/v/c6a22893422c03cc49c1e48970751baf0e703f86/))
+([permalink](https://ersilia-os.github.io/manuscript-ersilia-hub/v/391fc7f443dd6798224cd79b6d516605d06b8853/))
 was automatically generated
-from [ersilia-os/manuscript-ersilia-hub@c6a2289](https://github.com/ersilia-os/manuscript-ersilia-hub/tree/c6a22893422c03cc49c1e48970751baf0e703f86)
+from [ersilia-os/manuscript-ersilia-hub@391fc7f](https://github.com/ersilia-os/manuscript-ersilia-hub/tree/391fc7f443dd6798224cd79b6d516605d06b8853)
 on April 8, 2021.
 </em></small>
 
@@ -83,7 +83,7 @@ on April 8, 2021.
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [mduranfrigola](https://twitter.com/mduranfrigola)<br>
   <small>
-     Department of Something, University of Whatever
+     Ersilia Open Source Initiative, Cambridge, UK
      · Funded by None
   </small>
 
