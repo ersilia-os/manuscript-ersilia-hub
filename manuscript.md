@@ -34,6 +34,7 @@ header-includes: |-
   <meta name="twitter:creator" content="@TuronGemma" />
   <meta name="citation_author" content="Edoardo Gaude" />
   <meta name="citation_author_institution" content="Ersilia Open Source Initiative, Cambridge, UK" />
+  <meta name="citation_author_orcid" content="0000-0001-8523-7792" />
   <meta name="citation_author" content="Miquel Duran-Frigola" />
   <meta name="citation_author_institution" content="Ersilia Open Source Initiative, Cambridge, UK" />
   <meta name="citation_author_orcid" content="0000-0002-9906-6936" />
@@ -44,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ersilia-os.github.io/manuscript-ersilia-hub/" />
   <meta name="citation_pdf_url" content="https://ersilia-os.github.io/manuscript-ersilia-hub/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ersilia-os.github.io/manuscript-ersilia-hub/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ersilia-os.github.io/manuscript-ersilia-hub/v/fdf13ba0c93a9b921b3e9547f5ac7868be24612f/" />
-  <meta name="manubot_html_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/fdf13ba0c93a9b921b3e9547f5ac7868be24612f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/fdf13ba0c93a9b921b3e9547f5ac7868be24612f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ersilia-os.github.io/manuscript-ersilia-hub/v/f5a4f2c149cc08f9971bf580ff528696fdd96a4a/" />
+  <meta name="manubot_html_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/f5a4f2c149cc08f9971bf580ff528696fdd96a4a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/f5a4f2c149cc08f9971bf580ff528696fdd96a4a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,12 +68,12 @@ manubot-clear-requests-cache: false
 
 
 <small><em>
-This manuscript was automatically generated
+Generated from
 from [ersilia-os/manuscript-ersilia-hub](https://github.com/ersilia-os/manuscript-ersilia-hub)
 on April 8, 2021.
 </em></small>
 
-[ This is just a test manuscript. We expect to write this document before Summer 2021. ]{.banner .lightred}
+[ This is a draft document. We expect to start with the writing of this document by June 2021. ]{.banner .lightred}
 
 ## Authors
 
@@ -89,7 +90,9 @@ on April 8, 2021.
      Ersilia Open Source Initiative, Cambridge, UK
   </small>
 
-+ **Edoardo Gaude**<br><br>
++ **Edoardo Gaude**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0001-8523-7792](https://orcid.org/0000-0001-8523-7792)<br>
   <small>
      Ersilia Open Source Initiative, Cambridge, UK
   </small>
@@ -109,7 +112,7 @@ on April 8, 2021.
 
 ## Abstract {.page_break_before}
 
-
+The Ersilia Model Hub is available at [](https://ersilia.io/hub).
 
 
 ## Introduction
