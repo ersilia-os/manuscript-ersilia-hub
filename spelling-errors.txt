@@ -19,17 +19,20 @@ enim
 esse
 Excepteur
 exercitation
+Frigola
 fugiat
 incididunt
 ipsum
 irure
 janeroe
-johndoe
 labore
 laboris
 laborum
 Lorem
 magna
+mduranfrigola
+Miquel
+miquelduranfrigola
 mollit
 nisi
 nostrud
@@ -51,4 +54,3 @@ velit
 veniam
 voluptate
 XXXX
-XXXXXXXX

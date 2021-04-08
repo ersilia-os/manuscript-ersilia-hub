@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Ersilia Model Hub
 keywords:
 - markdown
 - publishing
@@ -7,7 +7,7 @@ keywords:
 lang: en-US
 date-meta: '2021-04-08'
 author-meta:
-- John Doe
+- Miquel Duran-Frigola
 - Jane Roe
 header-includes: |-
   <!--
@@ -15,10 +15,10 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Ersilia Model Hub" />
+  <meta name="citation_title" content="Ersilia Model Hub" />
+  <meta property="og:title" content="Ersilia Model Hub" />
+  <meta property="twitter:title" content="Ersilia Model Hub" />
   <meta name="dc.date" content="2021-04-08" />
   <meta name="citation_publication_date" content="2021-04-08" />
   <meta name="dc.language" content="en-US" />
@@ -27,10 +27,10 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Miquel Duran-Frigola" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@mduranfrigola" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ersilia-os.github.io/manuscript-ersilia-hub/" />
   <meta name="citation_pdf_url" content="https://ersilia-os.github.io/manuscript-ersilia-hub/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ersilia-os.github.io/manuscript-ersilia-hub/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ersilia-os.github.io/manuscript-ersilia-hub/v/f09ce13278540620afe5a67840ef23284d4d83f9/" />
-  <meta name="manubot_html_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/f09ce13278540620afe5a67840ef23284d4d83f9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/f09ce13278540620afe5a67840ef23284d4d83f9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ersilia-os.github.io/manuscript-ersilia-hub/v/c6a22893422c03cc49c1e48970751baf0e703f86/" />
+  <meta name="manubot_html_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/c6a22893422c03cc49c1e48970751baf0e703f86/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ersilia-os.github.io/manuscript-ersilia-hub/v/c6a22893422c03cc49c1e48970751baf0e703f86/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ersilia-os.github.io/manuscript-ersilia-hub/v/f09ce13278540620afe5a67840ef23284d4d83f9/))
+([permalink](https://ersilia-os.github.io/manuscript-ersilia-hub/v/c6a22893422c03cc49c1e48970751baf0e703f86/))
 was automatically generated
-from [ersilia-os/manuscript-ersilia-hub@f09ce13](https://github.com/ersilia-os/manuscript-ersilia-hub/tree/f09ce13278540620afe5a67840ef23284d4d83f9)
+from [ersilia-os/manuscript-ersilia-hub@c6a2289](https://github.com/ersilia-os/manuscript-ersilia-hub/tree/c6a22893422c03cc49c1e48970751baf0e703f86)
 on April 8, 2021.
 </em></small>
 
@@ -75,16 +75,16 @@ on April 8, 2021.
 
 
 
-+ **John Doe**<br>
++ **Miquel Duran-Frigola**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [miquelduranfrigola](https://github.com/miquelduranfrigola)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [mduranfrigola](https://twitter.com/mduranfrigola)<br>
   <small>
      Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     · Funded by None
   </small>
 
 + **Jane Roe**<br>
